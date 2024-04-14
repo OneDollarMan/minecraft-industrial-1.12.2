@@ -1,5 +1,6 @@
 services:
   server:
+    container_name: mc
     image: itzg/minecraft-server:java8-multiarch
     environment:
       EULA: "true"
