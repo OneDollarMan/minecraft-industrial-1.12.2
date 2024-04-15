@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "warnings": [],
+  "isFrozen": false,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Vojen",
+  "lastLocation": {
+    "x": 116.32026794574384,
+    "y": 87.26900859015386,
+    "z": -464.8068481483735,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "53584c51-3fa7-4b9f-9966-9d3b68118fbe"
+  },
+  "lastLogin": 1713115452958,
+  "lastLogout": 1713115627147,
+  "lastIP": "/192.168.65.1",
+  "firstJoin": 1713115452958,
+  "startedFirstJoin": false,
+  "invulnerable": false,
+  "notes": [],
+  "mail": []
+}

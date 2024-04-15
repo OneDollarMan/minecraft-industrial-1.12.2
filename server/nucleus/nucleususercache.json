@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "node": {
+    "0cd0e5f9-fc41-32d0-bd14-54ff70401fe3": {
+      "ipAddress": "192.168.65.1",
+      "isMuted": false
+    }
+  }
+}

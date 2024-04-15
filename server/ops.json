@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "0cd0e5f9-fc41-32d0-bd14-54ff70401fe3",
+    "name": "Vojen",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
